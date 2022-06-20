@@ -6,6 +6,7 @@ body{
   height: 500px;
   margin: 40px auto;
   width: 400px;
+  overflow: auto;
 }
 .todo-form input{
   background-color: rgb(27, 112, 137);
